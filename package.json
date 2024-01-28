@@ -86,7 +86,7 @@
     "babel-plugin-react-docgen": "4.2.1",
     "chalk": "3.0.0",
     "chokidar-cli": "2.1.0",
-    "commander": "4.0.1",
+    "commander": "11.1.0",
     "conventional-commit-types-cli": "1.0.3",
     "es-check": "5.2.0",
     "husky": "1.3.1",
